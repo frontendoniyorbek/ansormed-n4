@@ -223,3 +223,63 @@ p {
 	height: 504px;
 }
 /* SITE HERO END */
+
+/* services stsrt */
+.services {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+
+.services-title {
+	text-align: center;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.2;
+	color: #000;
+	margin-bottom: 56px;
+}
+
+.services-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 60px;
+}
+
+.services-item {
+	display: flex;
+	align-items: center;
+}
+
+.services-item:not(:last-child) {
+	margin-bottom: 80px;
+}
+
+.services-img {
+	margin-right: 64px;
+}
+
+.services-img img {
+	width: 200px;
+	height: 200px;
+}
+
+.services-info {
+	max-width: 600px;
+	width: 100%;
+}
+
+.services-info-title {
+	margin-bottom: 24px;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 1.2;
+	color: #222;
+}
+
+.services-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+/* services end */
