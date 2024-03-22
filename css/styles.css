@@ -296,36 +296,36 @@ p {
 	color: #fff;
 }
 
-.main-footer-container {
+.main-footer__container {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 }
 
-.main-footer-title {
+.main-footer__title {
 	margin-bottom: 40px;
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 1.2;
 }
 
-.main-footer-info-wrapper {
+.main-footer__info-wrapper {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
-.main-footer-btn:not(:last-child) {
+.main-footer__btn:not(:last-child) {
 	margin-right: 40px;
 }
 
-.main-footer-btn {
+.main-footer__btn {
 	background-color: transparent;
 	border: 2px solid #fff;
 	text-decoration: none;
 }
-.main-footer-btn:hover {
+.main-footer__btn:hover {
 	background-color: #de2e54;
 	border: 2px solid #de2e54;
 	color: #fff;
