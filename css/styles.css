@@ -340,22 +340,22 @@ p {
 	color: #fff;
 }
 
-.site-footer-title {
+.site-footer__title {
 	color: #fff;
 }
 
-.site-footer-title:hover {
+.site-footer__title:hover {
 	color: #de2e54;
 }
 
-.site-footer-title:active {
+.site-footer__title:active {
 	color: #fff;
 }
-.site-footer-link {
+.site-foote__link {
 	color: #fff;
 }
 
-.site-footer-link:active {
+.site-foote__link:active {
 	color: #fff;
 }
 /* site-footer end */
