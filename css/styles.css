@@ -224,13 +224,13 @@ p {
 }
 /* SITE HERO END */
 
-/* services stsrt */
+/* servicestsrt */
 .services {
 	padding-top: 120px;
 	padding-bottom: 120px;
 }
 
-.services-title {
+.services__title {
 	text-align: center;
 	font-weight: 700;
 	font-size: 36px;
@@ -239,7 +239,7 @@ p {
 	margin-bottom: 56px;
 }
 
-.services-list {
+.services__list {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -250,30 +250,30 @@ p {
 	margin-bottom: 60px;
 }
 
-.services-item {
+.services__item {
 	display: flex;
 	align-items: center;
 }
 
-.services-item:not(:last-child) {
+.services__item:not(:last-child) {
 	margin-bottom: 80px;
 }
 
-.services-img {
+.services__img {
 	margin-right: 64px;
 }
 
-.services-img img {
+.services__img img {
 	width: 200px;
 	height: 200px;
 }
 
-.services-info {
+.services__info {
 	max-width: 600px;
 	width: 100%;
 }
 
-.services-info-title {
+.services__info-title {
 	margin-bottom: 24px;
 	font-weight: 700;
 	font-size: 24px;
@@ -281,12 +281,12 @@ p {
 	color: #222;
 }
 
-.services-btn {
+.services__btn {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
-/* services end */
+/* services__end */
 
 /* MAIN-FOOTER START */
 .main-footer {
